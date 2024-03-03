@@ -1,2 +1,2 @@
 print ('hello')
-print ("000a=1")
+print ("000a=2")
