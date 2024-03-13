@@ -23,4 +23,4 @@ hello from me orther side
 ### Pho tô
 
 mở hình của tui 
-![alt text](https://github.com/Shuno2200/learnGit/blob/main/H%C3%ACnh.jpg) <br />
+![aa](https://github.com/Shuno2200/learnGit/blob/main/H%C3%ACnh.jpg) <br />
