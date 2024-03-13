@@ -10,3 +10,16 @@ Không có gì là mình ơi
     - [ ] Lấy Ielts
     - [ ] Đi làm
 
+- Ngân sách chi tiêu
+
+    - Tiền nhà
+    - Phí sinh hoạt
+
+link linkedin [Shuno](www.linkedin.com/in/shuno2804/)
+link linkedin linkedin.com/in/shuno2804
+Facebook [Của tui](www.fb.com/shuno.0612)
+
+### Pho tô
+
+mở hình của tui 
+![alt text](https://github.com/Shuno2200/learnGit/blob/main/H%C3%ACnh.jpg)
