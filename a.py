@@ -1,3 +1,4 @@
+#Hãy viết chương trình in ra màn hình từng phần tử trong một danh sách bất kì.
 def print_ds(ds):
     for n in ds:
         print(n)
