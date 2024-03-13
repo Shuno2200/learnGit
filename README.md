@@ -16,8 +16,9 @@ Không có gì là mình ơi
     - Phí sinh hoạt
 
 link linkedin [Shuno](www.linkedin.com/in/shuno2804/)  
-link linkedin linkedin.com/in/shuno2804 <break>
+link linkedin linkedin.com/in/shuno2804 <br />
 Facebook [Của tui](www.fb.com/shuno.0612) <br />
+hello from me orther side
 
 ### Pho tô
 
