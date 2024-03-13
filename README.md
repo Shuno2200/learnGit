@@ -15,9 +15,9 @@ Không có gì là mình ơi
     - Tiền nhà
     - Phí sinh hoạt
 
-link linkedin [Shuno](www.linkedin.com/in/shuno2804/)
-link linkedin linkedin.com/in/shuno2804
-Facebook [Của tui](www.fb.com/shuno.0612)
+link linkedin [Shuno](www.linkedin.com/in/shuno2804/) <break>
+link linkedin linkedin.com/in/shuno2804 <break>
+Facebook [Của tui](www.fb.com/shuno.0612) <break>
 
 ### Pho tô
 
